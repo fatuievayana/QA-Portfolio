@@ -8,4 +8,4 @@ Cart Functionality Testing
 Checkout Testing
 Product Sorting Testing
 
-Project documentation is available in the attached PDF fi
+Project documentation is available in the attached PDF file
