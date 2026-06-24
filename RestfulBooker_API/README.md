@@ -1,3 +1,5 @@
+# Restful Booker API Testing Project
+
 API testing project including:
 
 - 10 API Test Cases
